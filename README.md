@@ -64,11 +64,6 @@ The dataset includes both numerical and categorical features. Preprocessing step
 ### Model Training and Evaluation 🧠
 The Random Forest classifier is trained using the preprocessed training data and evaluated on the test data.
 
-Evaluation Metrics 📊
-The model is evaluated using various metrics, including accuracy, precision, recall, and F1-score.
-
-# Project Name
-
 ## Evaluation Metrics 📊
 The model is evaluated using various metrics, including accuracy, precision, recall, and F1-score.
 
